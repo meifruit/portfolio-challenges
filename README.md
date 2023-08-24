@@ -1,4 +1,5 @@
 # portfolio-challenges
-## CAPITALISTA
-A Javascript project from Udemy online bootcamp.
+## A Javascript project from Udemy online bootcamp.
+- CAPITALISTA
+- Piggame
 
